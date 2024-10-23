@@ -8,7 +8,7 @@ public abstract class Animal {
         System.out.println("Animal is eating");
     }
 }
-
+//class
 //subclass for an abstract class
 class Lion extends Animal {
     //provide implementation of abstract method
